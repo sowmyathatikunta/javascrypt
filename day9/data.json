@@ -1,0 +1,23 @@
+[
+    {
+        "name":"sowmya",
+        "id":1,
+        "Department": "CSE"
+    },
+    {
+        "name":"krish",
+        "id":2,
+        "Department": "DS"
+    },
+    {
+        "name":"bhanu",
+        "id":3,
+        "Department": "AIML"
+    },
+    {
+        "name":"prashanth",
+        "id":4,
+        "Department": "IOT"
+    }
+] 
+
